@@ -19,7 +19,7 @@ public class ConversionEncuesta {
         // Creación del Scanner para recolectar datos
         Scanner C_Input = new Scanner(System.in);
         
-        //Solicitud de datos al usuario.
+        //Solicitud de datos al usuario
         
         System.out.println("""
         Bienvenido usuario. A continuacion se realizara una encuesta, en donde 
